@@ -1,0 +1,271 @@
+{
+  "project_info": {
+    "project_number": "558881172230",
+    "firebase_url": "https://test-819d5.firebaseio.com",
+    "project_id": "test-819d5",
+    "storage_bucket": "test-819d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558881172230:android:0893deba5d2a9648",
+        "android_client_info": {
+          "package_name": "com.carmonespi.testingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMU8HbDzygu3SI5wiInnXBTx21fyEfbPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558881172230-e6c9tkmebddv0buc1avckg0kek0ettvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Upax.WhatsZeusSDK"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558881172230:android:7e27a19059fba796480c87",
+        "android_client_info": {
+          "package_name": "com.gmail.carmonespi.defi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMU8HbDzygu3SI5wiInnXBTx21fyEfbPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558881172230-e6c9tkmebddv0buc1avckg0kek0ettvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Upax.WhatsZeusSDK"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558881172230:android:ba89bfa487b92988",
+        "android_client_info": {
+          "package_name": "com.resocoder.firemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMU8HbDzygu3SI5wiInnXBTx21fyEfbPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558881172230-e6c9tkmebddv0buc1avckg0kek0ettvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Upax.WhatsZeusSDK"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558881172230:android:abd41219a5ff8219480c87",
+        "android_client_info": {
+          "package_name": "com.upax.conectanos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMU8HbDzygu3SI5wiInnXBTx21fyEfbPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558881172230-e6c9tkmebddv0buc1avckg0kek0ettvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Upax.WhatsZeusSDK"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558881172230:android:2cd528af51d5b23c480c87",
+        "android_client_info": {
+          "package_name": "com.upax.masterlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMU8HbDzygu3SI5wiInnXBTx21fyEfbPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558881172230-e6c9tkmebddv0buc1avckg0kek0ettvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Upax.WhatsZeusSDK"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558881172230:android:ec7ff6f74fa1c72f",
+        "android_client_info": {
+          "package_name": "com.upax.zeuschatsdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMU8HbDzygu3SI5wiInnXBTx21fyEfbPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558881172230-e6c9tkmebddv0buc1avckg0kek0ettvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Upax.WhatsZeusSDK"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558881172230:android:c1668e16a54995e6",
+        "android_client_info": {
+          "package_name": "com.vallescondido.a2rp.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558881172230-vfaranqe5a8gk04t5skl6qmtjkdkfflf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vallescondido.a2rp.notification",
+            "certificate_hash": "bd4cd033cecba4845d92840b5103ed1174123347"
+          }
+        },
+        {
+          "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMU8HbDzygu3SI5wiInnXBTx21fyEfbPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558881172230-qq8eo3lie28uqp1qhvi5p60tv2qs0fd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558881172230-e6c9tkmebddv0buc1avckg0kek0ettvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Upax.WhatsZeusSDK"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
